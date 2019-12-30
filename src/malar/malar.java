@@ -81,7 +81,7 @@ public class malar {
 			public void actionPerformed(ActionEvent arg0) {
 				
 				double c=Double.parseDouble(t1.getText())*Double.parseDouble(t2.getText());
-			
+				
 				t3.setText(c+"");
 			}
 		});
